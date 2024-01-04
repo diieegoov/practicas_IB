@@ -1,0 +1,3 @@
+total 4
+-rw-rw-r-- 1 usuario usuario 8 Sep 25 12:20 fichero1.txt
+-rw-rw-r-- 1 usuario usuario 0 Sep 25 12:22 lista1.txt
